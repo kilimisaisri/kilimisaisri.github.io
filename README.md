@@ -2,7 +2,7 @@
 
 ##Educational Details
 
-**Branch & year:** CST, 1st year 
+**Branch & year:** COMPUTER SCIENCE AND TECHNOLOGY, 1st year 
 
 **College Name:** sri Vasavi Engineering College
 
