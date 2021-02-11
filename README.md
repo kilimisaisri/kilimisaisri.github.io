@@ -9,7 +9,7 @@
 ## Skills: 
 
 - C Programming
--version control system (Git & Github)
+- version control system (Git & Github)
 
 ## Certifications:
 
